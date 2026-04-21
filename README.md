@@ -2,7 +2,7 @@
 
 ## 1. Diagrama Bloc
 
-<img width="1920" height="1080" alt="Diagrama_bloc" src="Images/Diagrama.png" />
+<img width="1920" height="1080" alt="Diagrama_bloc" src="Images/Diagram.png" />
 
 Diagrama ilustreaza doua fluxuri principale:
 *   **Fluxul de Alimentare:** De la portul USB-C, prin circuitul de incarcare, catre baterie si apoi prin convertorul DC/DC catre restul componentelor.
